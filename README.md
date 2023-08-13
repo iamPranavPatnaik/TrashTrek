@@ -20,7 +20,7 @@ Located in the A_Star folder, I've included several versions of the project to d
 
 ## Contributions
 
-I'd really welcome contributions from the community. If you'd like to contribute to TrashTrek, please follow these steps:
+I welcome contributions from the community. If you'd like to contribute to TrashTrek, please follow these steps:
 
 1. Fork the repository and create a new branch.
 2. Implement your changes or improvements.
