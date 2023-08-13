@@ -2,6 +2,8 @@
 
 Submitted for the 2023 Summer Bloom Bonanza Hackathon
 
+**Take a look at the attached PDF for full information and explanations on the tech behind the application.** 
+
 ## Versions
 
 Located in the A_Star folder, I've included several versions of the project to detail my progress on it and to pull back the curtains on how this was made.
