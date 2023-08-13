@@ -4,7 +4,7 @@ Submitted for the 2023 Summer Bloom Bonanza Hackathon
 
 ## Versions
 
-I've included several versions of the project to detail my progress on it and to pull back the curtains on how this was made.
+Located in the A_Star folder, I've included several versions of the project to detail my progress on it and to pull back the curtains on how this was made.
 
 - **AStar_Grid:** Showcases the skeleton hidden under the textures.
 - **AStar_Blank:** Same as AStar_Grid, but without the grid.
